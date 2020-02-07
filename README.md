@@ -9,3 +9,4 @@ To design GUI that allows the user to play Farkle Flip card game. The game start
 
 
 the blog link:
+https://ruba-ali.wixsite.com/rubabinjabal/single-post/2020/02/07/FARKLE-FLIP-Java-Project 
